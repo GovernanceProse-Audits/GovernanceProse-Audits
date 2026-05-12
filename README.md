@@ -18,10 +18,8 @@ I implement real-time observability for technical assets. Every project is integ
 *   **[Navigating the Shadow AI Crisis](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/ai-governance-whitepaper.md)** — Security frameworks for the autonomous agent era.
 *   **[The Privacy-Performance Paradox](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/health%20tech-privacy-ai-whitepaper.md)** — HIPAA-compliant AI integration in HealthTech.
 *   **[Beyond the Billing Dashboard](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/ai-native-finops-whitepaper.md)** — Institutional-grade FinOps frameworks.
-
-### 📖 Technical Systems Architecture (Docs-as-Code)
-*   **[Notion Team Wiki Architecture](https://github.com)** — Scaling organizational knowledge.
-*   **[Slack Workflow Automation](https://github.com)** — Reducing operational friction through logic.
+*   **[The Death of The Perimeter](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/cybesecurity-identity-whitepaper.md)** -Cybersecurity-Identity
+*   **[The Hidden Cost of Software Bloat](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/software-bloat-whitepaper.md)** - Software Bloat
 
 ---
 
