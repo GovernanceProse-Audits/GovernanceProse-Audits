@@ -13,20 +13,11 @@ I implement real-time observability for technical assets. Every project is integ
 *   **[Live Governance Dashboards]:** Real-time visibility into the "security posture" of your technical prose, flagging authority-eroding language before it reaches the public.
 
 ---
-
-### 📑 Strategic Whitepapers (B2B Authority)
-*   **[The GreenOps Mandate](https://github.com/besquea12/technical-writing-portfolio/blob/main/greens-sustainable-it-whitepaper.md)**
-*   **[The Privacy-Performance Paradox](https://github.com/besquea12/technical-writing-portfolio/blob/main/health%20tech-privacy-ai-whitepaper.md)**
-*   **[Beyond the Billing Dashbaord](https://github.com/besquea12/technical-writing-portfolio/blob/main/ai-native-finops-whitepaper.md)**
-
-*   **[The Death of the Perimeter](https://github.com/besquea12/technical-writing-portfolio/blob/main/cybesecurity-identity-whitepaper.md)**
-*   **[Navigating the Shadow AI Crisis](https://github.com/besquea12/technical-writing-portfolio/blob/main/ai-governance-whitepaper%20.md)**
-*   **[The Hidden Costs of Software Bloat](https://github.com/besquea12/technical-writing-portfolio/blob/main/software%20bloat-whitepaper%20.md)**
-
-### 📖 Product Documentation (User Success)
-*   **[Slack Workflow Automation](https://github.com/besquea12/technical-writing-portfolio/blob/main/slack-workflow-guide.md)**
-*   **[Notion Team Wiki Architecture](https://github.com/besquea12/technical-writing-portfolio/blob/main/notion-wiki-guide.md)**
-*   **[Trello Butler Logic](https://github.com/besquea12/technical-writing-portfolio/blob/main/trello-automation-guide.md)**
+### 📑 High-Authority Governance Papers (Audit-Driven)
+*   **[The GreenOps Mandate](https://github.com)** — Sustainable IT infrastructure & FinOps efficiency.
+*   **[Navigating the Shadow AI Crisis](https://github.com)** — Security frameworks for the autonomous agent era.
+*   **[The Privacy-Performance Paradox](https://github.com)** — HIPAA-compliant AI integration in HealthTech.
+*   **[Beyond the Billing Dashboard](https://github.com)** — Institutional-grade FinOps frameworks.
 
 ### 📖 Technical Systems Architecture (Docs-as-Code)
 *   **[Notion Team Wiki Architecture](https://github.com)** — Scaling organizational knowledge.
