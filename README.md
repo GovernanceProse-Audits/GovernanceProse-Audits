@@ -14,10 +14,10 @@ I implement real-time observability for technical assets. Every project is integ
 
 ---
 ### 📑 High-Authority Governance Papers (Audit-Driven)
-*   **[The GreenOps Mandate](https://github.com)** — Sustainable IT infrastructure & FinOps efficiency.
-*   **[Navigating the Shadow AI Crisis](https://github.com)** — Security frameworks for the autonomous agent era.
-*   **[The Privacy-Performance Paradox](https://github.com)** — HIPAA-compliant AI integration in HealthTech.
-*   **[Beyond the Billing Dashboard](https://github.com)** — Institutional-grade FinOps frameworks.
+*   **[The GreenOps Mandate](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/greens-sustainable-it-whitepaper.md)** — Sustainable IT infrastructure & FinOps efficiency.
+*   **[Navigating the Shadow AI Crisis](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/ai-governance-whitepaper.md)** — Security frameworks for the autonomous agent era.
+*   **[The Privacy-Performance Paradox](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/health%20tech-privacy-ai-whitepaper.md)** — HIPAA-compliant AI integration in HealthTech.
+*   **[Beyond the Billing Dashboard](https://github.com/GovernanceProse-Audits/technical-auditing-portfolio/blob/main/technical-auditing-portfolio/ai-native-finops-whitepaper.md)** — Institutional-grade FinOps frameworks.
 
 ### 📖 Technical Systems Architecture (Docs-as-Code)
 *   **[Notion Team Wiki Architecture](https://github.com)** — Scaling organizational knowledge.
