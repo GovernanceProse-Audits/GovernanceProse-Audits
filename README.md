@@ -1,4 +1,4 @@
-# Bryant Esquea | Principal Architect, Semantic Operations Group
+# Bryant Esquea | Principal Technical Architect, Semantic Governance Group
 **Linguistic CI/CD & Automated Technical Governance for the 2026 AI, HealthTech, & FinOps Ecosystem.**
 
 ---
